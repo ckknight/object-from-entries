@@ -1,0 +1,28 @@
+{
+  "name": "object-from-entries",
+  "version": "1.0.0",
+  "description": "Convert entries to an Object",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ckknight/object-from-entries.git"
+  },
+  "keywords": [
+    "object",
+    "properties",
+    "entries",
+    "convert"
+  ],
+  "author": "Cameron Knight <ckknight@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ckknight/object-from-entries/issues"
+  },
+  "homepage": "https://github.com/ckknight/object-from-entries#readme",
+  "devDependencies": {
+    "mocha": "^2.5.3"
+  }
+}
