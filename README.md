@@ -1,4 +1,4 @@
-# object-from-entries
+# object-from-entries [![Build Status](https://travis-ci.org/ckknight/object-from-entries.svg?branch=master)](https://travis-ci.org/ckknight/object-from-entries)
 Convert entries to an Object
 
 Intended to be the inverse of [Object.entries](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/entries)
