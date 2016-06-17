@@ -1,6 +1,6 @@
 'use strict';
 var assert = require('assert');
-var objectFromEntries = require('.');
+var objectFromEntries = require('./');
 
 it('has the correct length', function () {
   assert.equal(objectFromEntries.length, 1);
